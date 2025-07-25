@@ -1,0 +1,30 @@
+{
+	"workbench.colorTheme": "Gruvbox Dark Anhoder",
+	"workbench.iconTheme": "vscode-icons",
+	"editor.formatOnSave": true,
+	"prettier.tabWidth": 4,
+	"prettier.useTabs": true,
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.largeFileOptimizations": false,
+	"editor.inlineSuggest.enabled": true,
+	"[python]": {
+		"editor.formatOnType": true
+	},
+	"cmake.configureOnOpen": true,
+	"[c]": {
+		"editor.wordBasedSuggestions": "off",
+		"editor.suggest.insertMode": "replace",
+		"editor.semanticHighlighting.enabled": true
+	},
+	"editor.fontFamily": "JetBrains Mono",
+	"workbench.settings.applyToAllProfiles": ["editor.fontFamily"],
+	"editor.fontLigatures": false,
+	"zig.zls.enabled": "on",
+	"makefile.configureOnOpen": true,
+	"cmake.pinnedCommands": [
+		"workbench.action.tasks.configureTaskRunner",
+		"workbench.action.tasks.runTask"
+	]
+}
