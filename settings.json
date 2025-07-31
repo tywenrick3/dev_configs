@@ -1,6 +1,6 @@
 {
-	"workbench.colorTheme": "Gruvbox Dark Anhoder",
-	"workbench.iconTheme": "vscode-icons",
+	"workbench.colorTheme": "Monokai Classic",
+	"workbench.iconTheme": "Monokai Classic Icons",
 	"editor.formatOnSave": true,
 	"prettier.tabWidth": 4,
 	"prettier.useTabs": true,
@@ -18,7 +18,7 @@
 		"editor.suggest.insertMode": "replace",
 		"editor.semanticHighlighting.enabled": true
 	},
-	"editor.fontFamily": "JetBrains Mono",
+	"editor.fontFamily": "JetBrains Monospace",
 	"workbench.settings.applyToAllProfiles": ["editor.fontFamily"],
 	"editor.fontLigatures": false,
 	"zig.zls.enabled": "on",
